@@ -1,0 +1,47 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #1a73b5;
+  --color-primary-light: #e8f0fe;
+  --color-background: #f4f6f8;
+  --color-card: #ffffff;
+  --color-text-primary: #333333;
+  --color-text-secondary: #6b7280;
+  --color-border: #e0e0e0;
+  --color-risk-high: #d9534f;
+  --color-risk-medium: #f0ad4e;
+  --color-risk-low: #5cb85c;
+  --color-sidebar-bg: #ffffff;
+  --color-sidebar-hover: #f3f4f6;
+  --color-sidebar-active-bg: rgba(26, 115, 181, 0.1);
+
+  --font-display: 'Lato', sans-serif;
+  --font-sans: 'Inter', sans-serif;
+
+  --radius: 0.25rem;
+  --radius-lg: 0.5rem;
+  --radius-xl: 0.75rem;
+}
+
+body {
+  font-family: var(--font-display);
+  background-color: var(--color-background);
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
+
+.material-symbols-outlined.filled {
+  font-variation-settings:
+    'FILL' 1,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24;
+}
