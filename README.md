@@ -16,13 +16,11 @@ It pairs standardized clinical tasks (*Episodic Memory*, *Free Speech*, *Picture
 Clinicians and researchers can manage patients 🩺, run real-time audio assessment sessions 🎙️, and inspect AI-generated cognitive analytics with automated reports.
 
 #### Doctor Dashboard & Patient Management
-![Dashboard](https://github.com/user-attachments/assets/3a151381-eb3d-4a9f-ac6a-4dea9e8a6550)
+![Dashboard]()
 
 #### Audio Diagnostic Testing
-https://github.com/user-attachments/assets/af35252d-d624-46ae-ab70-afabfb71086a
 
 #### AI Scoring & Analytical Reports
-https://github.com/user-attachments/assets/84748eb5-2adb-4139-b542-612a86615979
 
 ---
 
