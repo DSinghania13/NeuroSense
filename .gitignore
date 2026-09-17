@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Node modules & dependencies (Root and Frontend)
+node_modules/
+frontend/node_modules/
+.npm/
+*.log
+
+# Frontend build outputs
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+dist/
+
+# Sensitive credentials & environment files
+*.env
+*.env.*
+atlas-credentials.env
+.env
+.env.local
+
+# Temporary audio uploads & intermediate files
+temp_uploads/
+*.webm
+*.wav
+*.mp3
+*.ogg
+*.m4a
+*.flac
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor configurations
+.idea/
+.vscode/
+*.swp
+*.swo
+*~

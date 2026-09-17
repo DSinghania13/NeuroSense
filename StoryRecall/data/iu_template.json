@@ -1,0 +1,77 @@
+{
+  "IU1": {
+    "name": "Time",
+    "definition": "Specific day or time reference",
+    "examples": ["Monday morning", "Tuesday evening", "last Friday"]
+  },
+  "IU2": {
+    "name": "Person",
+    "definition": "Main character (named individual)",
+    "examples": ["Ravi", "Anita", "Mohit"]
+  },
+  "IU3": {
+    "name": "Location",
+    "definition": "Place where the event begins",
+    "examples": ["market", "shop", "bakery", "grocery store"]
+  },
+  "IU4": {
+    "name": "Proximity",
+    "definition": "Spatial relation of the location",
+    "examples": ["near his house", "close to her apartment"]
+  },
+  "IU5": {
+    "name": "Purpose",
+    "definition": "Reason for going to the location",
+    "examples": ["to buy groceries", "to purchase food", "to get supplies"]
+  },
+  "IU6": {
+    "name": "Action-1",
+    "definition": "First concrete action performed",
+    "examples": ["bought vegetables", "purchased fruits"]
+  },
+  "IU7": {
+    "name": "Action-2",
+    "definition": "Second concrete action performed",
+    "examples": ["bought bread", "purchased rice"]
+  },
+  "IU8": {
+    "name": "Action-3",
+    "definition": "Third concrete action performed",
+    "examples": ["bought milk", "purchased oil"]
+  },
+  "IU9": {
+    "name": "Interaction",
+    "definition": "Social interaction with another person",
+    "examples": ["met a neighbor", "met a friend", "met a colleague"]
+  },
+  "IU10": {
+    "name": "Interaction Topic",
+    "definition": "Subject of conversation during interaction",
+    "examples": ["weather", "work", "family", "daily life"]
+  },
+  "IU11": {
+    "name": "Duration",
+    "definition": "Time span of interaction",
+    "examples": ["a few minutes", "a short time", "briefly"]
+  },
+  "IU12": {
+    "name": "Return",
+    "definition": "Returning to home",
+    "examples": ["returned home", "came back home", "reached home"]
+  },
+  "IU13": {
+    "name": "Home Activity",
+    "definition": "Activity performed after returning home",
+    "examples": ["prepared breakfast", "cooked lunch", "cooked dinner"]
+  },
+  "IU14": {
+    "name": "Meal / Routine",
+    "definition": "Eating or routine daily action",
+    "examples": ["ate breakfast", "had dinner", "rested"]
+  },
+  "IU15": {
+    "name": "Ending Context",
+    "definition": "Final event or closure of the story",
+    "examples": ["left for work", "went to rest", "relaxed"]
+  }
+}
